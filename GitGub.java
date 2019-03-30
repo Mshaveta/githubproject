@@ -1,11 +1,15 @@
 import java.util.*;
 public class BasicAray {
 	
+	public void BasicArayTest()
+	{
+		System.out.println("Please ignore");
+	}
+	
 	public void BasicAray()
 	{
 		
 	}
-	
 	
 	public static void main(String[] args) {
 		
