@@ -4,6 +4,14 @@ public class BasicAray {
 	public void BasicArayTest123()
 	{
 		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
+		System.out.println("Please ignore");
 	}
 	
 	public void BasicAray()
