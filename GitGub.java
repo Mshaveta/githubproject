@@ -1,7 +1,7 @@
 import java.util.*;
 public class BasicAray {
 	
-	public void BasicArayTest()
+	public void BasicArayTest123()
 	{
 		System.out.println("Please ignore");
 	}
